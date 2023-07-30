@@ -33,6 +33,12 @@ h1 {
 
 .div2 {
     padding-right: 200px;
+    border-radius: 30px;
+
+    padding-left: 20px;
+    padding-bottom: 50px;
+    margin-right: 70px;
+    margin-bottom: 50px;
 }
 
 .div1 img {
@@ -42,7 +48,7 @@ h1 {
 }
 
 .div2 img {
-    width: 50%;
+    width: 60%;
 
 }
 
@@ -64,4 +70,16 @@ body {
 #m123 {
     text-align: center;
 
+}
+
+#backgroundcolor1 {
+    background-color: bisque;
+}
+
+#backgroundcolor2 {
+    background-color: rgb(125, 197, 239);
+}
+
+#backgroundcolor3 {
+    background-color: rgb(244, 123, 231);
 }
