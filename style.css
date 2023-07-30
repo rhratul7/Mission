@@ -31,9 +31,18 @@ h1 {
 
 }
 
+.div2 {
+    padding-right: 200px;
+}
+
 .div1 img {
     width: 75%;
     height: 70%;
+
+}
+
+.div2 img {
+    width: 50%;
 
 }
 
@@ -50,4 +59,9 @@ body {
     color: white;
     padding: 10px;
     text-decoration: none;
+}
+
+#m123 {
+    text-align: center;
+
 }
